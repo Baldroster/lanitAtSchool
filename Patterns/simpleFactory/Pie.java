@@ -1,4 +1,4 @@
-package factoryMethod;
+package simpleFactory;
 
 
 public abstract class Pie {

@@ -1,4 +1,4 @@
-package factoryMethod;
+package simpleFactory;
 
 public class MeatPie extends Pie {
     @Override

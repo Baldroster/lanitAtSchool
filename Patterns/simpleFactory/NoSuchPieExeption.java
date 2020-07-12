@@ -1,4 +1,4 @@
-package factoryMethod;
+package simpleFactory;
 
 public class NoSuchPieExeption extends RuntimeException {
     NoSuchPieExeption (String typeOfPie){

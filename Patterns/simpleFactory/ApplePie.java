@@ -1,4 +1,4 @@
-package factoryMethod;
+package simpleFactory;
 
 public class ApplePie extends Pie {
     @Override

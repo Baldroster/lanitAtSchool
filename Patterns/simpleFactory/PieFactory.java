@@ -1,4 +1,4 @@
-package factoryMethod;
+package simpleFactory;
 
 public class PieFactory {
     public Pie createPie(String type) {

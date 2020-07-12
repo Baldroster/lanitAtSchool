@@ -1,4 +1,4 @@
-package factoryMethod;
+package simpleFactory;
 
     public class BakePie {
         public void bakePie(String type) {

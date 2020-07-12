@@ -1,4 +1,4 @@
-package factoryMethod;
+package simpleFactory;
 
 public class MakeSomePie {
     public static void main(String[] args) {
