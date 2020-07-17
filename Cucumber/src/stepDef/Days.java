@@ -1,13 +1,13 @@
 package stepDef;
 
 public enum Days {
-    MONDAY("Понедельник"),
-    TUESDAY("Вторник"),
-    WEDNESDAY("Среда"),
-    THURSDAY("Четверг"),
-    Пятница("Пятница"),
-    SATURDAY("Суббота"),
-    SUNDAY("Воскресение");
+    понедельник("Понедельник"),
+    вторник("Вторник"),
+    среда("Среда"),
+    четверг("Четверг"),
+    пятница("Пятница"),
+    суббота("Суббота"),
+    воскресение("Воскресение");
     public String value;
 
     public String getValue() {
@@ -15,8 +15,7 @@ public enum Days {
     }
 
 
-
-     Days(String value) {
+    Days(String value) {
         this.value = value;
     }
 }

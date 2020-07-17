@@ -8,8 +8,9 @@ public class StepsWithDays {
     public Days days(String day) {
         return Days.valueOf(day);
     }
+
     @И("{days} мой любимый день")
     public void printDay(Days day) {
-        System.out.println("Мой любимый день "+day.value);
+        System.out.println("Мой любимый день " + day.value + "\n");
     }
 }
